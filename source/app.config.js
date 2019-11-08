@@ -2,7 +2,7 @@ const setting = {
     dev: {
       db: {
         user: "root",
-        password: "sysdba",
+        password: "password",
         host: "localhost",
         database: "tienda"
       }

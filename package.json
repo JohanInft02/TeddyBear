@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "johan infante",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@dellasera/plugdo-server": "^1.0.15"
   }
